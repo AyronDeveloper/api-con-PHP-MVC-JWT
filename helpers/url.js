@@ -1,0 +1,1 @@
+const url_main=`${window.location.origin}/proyectos/PHP/apiv2/`

@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+input{
+    outline: none;
+    width: 100%;
+    border: solid 1px;
+    font-size: 15px;
+    padding: 0 10px;
+}
+.container__forms{
+    display: flex;
+}
+.content__post,
+.content__put{
+    border: solid 1px;
+}
+.form_post,
+.form_put{
+    padding: 10px;
+}
